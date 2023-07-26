@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **React and React Native**
 
-- 💬 Ask me about **ExpressJS, NodeJS, Javascript, MERN**
+- 💬 Ask me about **ExpressJS, NodeJS, Javascript, MERN, Authorization and Authentication, JWT, Password Encryption, MongoDb**
 
 - 📫 How to reach me **ashutosh.meddy@gmail.com**
 
